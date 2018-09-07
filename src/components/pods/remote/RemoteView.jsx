@@ -18,10 +18,12 @@ class RemoteView extends Component {
   render() {
     return (
       <div>
-        MENU BAR
-      </div>
-      <div>
-        CONTENT
+        <div>
+          MENU BAR
+        </div>
+        <div>
+          CONTENT
+        </div>
       </div>
     )
   }
